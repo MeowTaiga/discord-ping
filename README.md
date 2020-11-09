@@ -2,6 +2,11 @@
 
 Get a ping to one of your discord channels! Set unique actions, so you get notified when something happens on your website straight to your discord server.
 
+## What this does
+get notifications on your phone, have interactions with users about website updates, possiblities are endless.
+
+![Showcase](https://i.imgur.com/vaFiBkI.png)
+
 ## Installation
 
 ```bash
